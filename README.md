@@ -9,7 +9,7 @@ This is an Online Bookstore, developed as our E-Commerce Web lab project.
 
 ## Features
 - People can search books by catalog, author, publisher etc.
-- Online book order and billing facility.
+- Online book ordering and billing facility.
 - Users can give their review and rating on any books.
 - Specific admin pannel for managing the website.
 
