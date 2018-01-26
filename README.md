@@ -11,7 +11,7 @@ This is an Online Bookstore, developed as our E-Commerce Web lab project.
 - People can search books by catalog, author, publisher etc.
 - Online book ordering and billing facility.
 - Users can give their review and rating on any books.
-- Specific admin pannel for managing the website.
+- Specific admin pannel for mantaining the website.
 
 ## Contributors
 1. Md. Ashif Al Nowajesh.
